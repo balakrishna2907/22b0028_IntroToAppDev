@@ -1,6 +1,6 @@
 {
-    "name": "sample0",
-    "short_name": "sample0",
+    "name": "assignment",
+    "short_name": "assignment",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
